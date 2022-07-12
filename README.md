@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MicKnights
 - 👀 I’m interested in playing chess and programing
-- 🌱 I’m currently learning application deveopment
+- 🌱 I’m currently learning Software Egineering
 - 💞️ I’m looking to collaborate on application development and design
 - 📫 How to reach me... You can get a hold of by emailing at karabomashiho.dev@gmail.com
 
